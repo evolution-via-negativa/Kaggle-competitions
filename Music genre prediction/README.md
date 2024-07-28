@@ -1,5 +1,5 @@
 # Классификация музыки
-[Проект](https://github.com/evolution-via-negativa/Portfolio/tree/main/Music%20genre%20prediction)  
+[Проект](https://github.com/evolution-via-negativa/Portfolio/blob/main/Music%20genre%20prediction/Music%20genre%20prediction.ipynb)  
 # Постановка задачи:
 Необходимо разработать модель, позволяющую классифицировать музыкальные произведения по жанрам.
 # Навыки и инструменты:  
